@@ -27,7 +27,7 @@ Hardware implementation of the classic Breakout game on a DE2-115 FPGA.
 Key technologies:
 VHDL | Quartus | DE2-115 | Cyclone IV E | VGA | FSM
 
-[View Project →](link-to-repository)
+[View Project →]([link-to-repository](https://github.com/kmora126/fpga-breakout-game))
 
 ### Digital Blackjack System
 
