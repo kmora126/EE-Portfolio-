@@ -19,23 +19,12 @@ design, hardware debugging, and system integration.
 - VGA Interfaces
 
 ## Projects
+### [FPGA Breakout Game](https://github.com/yourusername/fpga-breakout-game)
+- Developed on the DE2-115 FPGA
+- Implemented VGA graphics, FSM control, collision detection, and scoring
+- Technologies: VHDL, Quartus, ModelSim, FPGA, VGA
 
-### FPGA Breakout Game
-
-Hardware implementation of the classic Breakout game on a DE2-115 FPGA.
-
-Key technologies:
-VHDL | Quartus | DE2-115 | Cyclone IV E | VGA | FSM
-
-[View Project →]([link-to-repository](https://github.com/kmora126/fpga-breakout-game))
-
-### Digital Blackjack System
-
-Collaborative two-person digital logic project implementing a hardware
-Blackjack system using counters, adders, registers, comparators, and
-seven-segment displays.
-
-Key technologies:
-Digital Logic | Quartus | 74xx ICs | Adders | Registers | Comparators
-
-[View Project →](link-to-repository)
+### [Digital Blackjack](https://github.com/yourusername/digital-blackjack)
+- Collaborative two-person digital logic project
+- Implemented counters, adders, registers, score displays, and comparison logic
+- Technologies: Quartus, 74xx ICs, Digital Logic, 7-Segment Displays
